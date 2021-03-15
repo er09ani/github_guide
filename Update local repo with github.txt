@@ -1,0 +1,7 @@
+$git pull origin  [name of the main branch.]
+
+eg
+$git pull origin master
+
+or 
+$git pull origin main
