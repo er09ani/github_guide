@@ -1,2 +1,7 @@
 This is second commit
 shows how to update repo
+
+//
+$ git add .
+$ git commit -m "Second commit"
+$ git push
