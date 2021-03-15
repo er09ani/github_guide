@@ -1,0 +1,6 @@
+First checkout new branch to work on new feature
+$git checkout -b user_auth
+
+you can verify your current branch using::
+$ git branch
+
